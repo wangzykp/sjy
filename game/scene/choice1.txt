@@ -1,0 +1,8 @@
+setTextbox:on;
+changeBg:train.jpg -next;
+setTextbox:on;
+谷歌:哈哈哈，没想到兜兜转转咱还是去了山东。;
+小佳:山东多好玩呀，别感慨了，咱快点买火车票吧！;
+谷歌:最近淄博蛮火爆，咱也去吃烧烤，怎么样！;
+小佳:我看去青岛看海也很好，还没那么拥挤！;
+choose:去青岛:qingdao.txt|去淄博:zibo.txt;

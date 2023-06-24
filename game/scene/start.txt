@@ -1,0 +1,12 @@
+; 初始场景，以及特效演示
+bgm:;
+unlockBgm:ProleteR - Faidherbe.mp3;
+changeBg: -next;
+changeFigure:none -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+bgm:ProleteR - Faidherbe.mp3;
+:欢迎来到二哈在囧途！;
+
+bgm:Bravitar.mp3;
+changeBg:22222222.jpg -next;
+changeScene:shandong.txt

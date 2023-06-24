@@ -1,0 +1,12 @@
+bgm:Bravitar.mp3;
+changeBg:1111.jpg -next;
+changeFigure:gggggg.png -left -next -id=谷歌;
+谷歌:啊啊啊啊，好激动啊，我们去哪里旅游呀？;
+changeFigure:nvnvnvn.png -next -id=小佳;
+小佳:我有预感，这是一场奇妙的旅行！;
+谷歌:我也这么觉得！所以我们打算去哪里？;
+小佳:咱们可以去山东，听说最近可火了！;
+谷歌:啊？我们还可以去远点的地方哎~我看好多人刚去了大西北，那儿的景色可美了！;
+小佳:大西北的话，我看就去青海吧~;
+谷歌:所以我们到底去哪里呢?;
+choose:去山东:choice1.txt|去青海:qinghai.txt;

@@ -1,0 +1,5 @@
+Game_name:二哈在囧途;
+Game_key:10bd5dd2077b846;
+Package_name:;
+Title_bgm:ProleteR - Faidherbe.mp3;
+Title_img:22222222.jpg;
